@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Oscar Herreros Cañada</h1>
-<h3 align="center">🎓 Graduado en Ingeniería Informática · 💼 Software Developer @ MistralBS</h3>
+<h3 align="center">🎓 Graduado en Ingeniería Informática · 💼 Software Developer MistralBS</h3>
 
 <p align="center">
   <a href="mailto:herrerososcar7@gmail.com">
@@ -19,10 +19,10 @@
 
 - 🎓 Recién graduado en **Ingeniería Informática** (Universitat de València)
 - 💼 **Prácticas en [MistralBS](https://www.mistralbs.com)** *(marzo–agosto 2026)* — Desarrollo de software (front & back) de un agente de IA con **Java, Spring Boot, HTML5, CSS, Azure, Python, Smart OPS AI Rest y ChatAI**
-- 💼 **Prácticas en [2LearnGroup](https://www.2learngroup.com)** *(2025–3 meses)* — Gestión y mejora de la web corporativa con **WordPress y Elementor**, optimización **SEO** e investigación de soluciones de IA para una academia online de idiomas (automatizaciones y generación de contenido dinámico)
+- 💼 **Prácticas en [2LearnGroup](https://www.2learngroup.com)** *(octubre-enero 2025)* — Gestión y mejora de la web corporativa con **WordPress y Elementor**, optimización **SEO** e investigación de soluciones de IA para una academia online de idiomas (automatizaciones y generación de contenido dinámico)
 - 📍 Valencia, España
 - 💡 Me apasiona el desarrollo de software y me motivan especialmente los retos en los que tengo que resolver un problema real
-- 📫 Contáctame: **herrerososcar7@gmail.com**
+- 📫 Contacto: **herrerososcar7@gmail.com**
 
 ---
 
