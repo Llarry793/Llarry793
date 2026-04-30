@@ -15,7 +15,7 @@
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## Sobre mí
 
 - 🎓 Recién graduado en **Ingeniería Informática** (Universitat de València)
 - 💼 **Prácticas en [MistralBS](https://www.mistralbs.com)** *(marzo–agosto 2026)* — Desarrollo de software (front & back) de un agente de IA con **Java, Spring Boot, HTML5, CSS, Azure, Python, Smart OPS AI Rest y ChatAI**
