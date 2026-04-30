@@ -58,10 +58,10 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [🛛 **Ordena**](https://github.com/Llarry793/Ordena) | App Android para gestión de restaurantes e inventario con alertas de stock y Google Maps | Kotlin · SQLite · Material Design · Android |
-| [🚴 **ValenBisi**](https://github.com/Llarry793/ValenBisi) | App Android para consultar en tiempo real la disponibilidad de bicicletas en las estaciones de Valenbisi (Valencia) | Kotlin · JSON · Open Data Valencia · Android |
-| [🎯 **PlatoScore**](https://github.com/Llarry793/PlatoScore) | App Android para la gestión de competiciones de tiro al plato con clasificaciones automáticas | Kotlin · Room · MVVM · Coroutines · Android |
-| [🚗 **EliteCars**](https://github.com/Llarry793/EliteCars) | Sitio web de venta de coches de alta gama con catálogo, carrito y panel de usuario | HTML5 · CSS3 · JavaScript · Bootstrap 5 · Web Components |
+| [**Ordena**](https://github.com/Llarry793/Ordena) | App Android para gestión de restaurantes e inventario con alertas de stock y Google Maps | Kotlin · SQLite · Material Design · Android |
+| [**ValenBisi**](https://github.com/Llarry793/ValenBisi) | App Android para consultar en tiempo real la disponibilidad de bicicletas en las estaciones de Valenbisi (Valencia) | Kotlin · JSON · Open Data Valencia · Android |
+| [**PlatoScore**](https://github.com/Llarry793/PlatoScore) | App Android para la gestión de competiciones de tiro al plato con clasificaciones automáticas | Kotlin · Room · MVVM · Coroutines · Android |
+| [**EliteCars**](https://github.com/Llarry793/EliteCars) | Sitio web de venta de coches de alta gama con catálogo, carrito y panel de usuario | HTML5 · CSS3 · JavaScript · Bootstrap 5 · Web Components |
 
 ---
 
